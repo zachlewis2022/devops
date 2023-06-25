@@ -34,3 +34,5 @@ jobs:
         run: |
           which python
           which gcc
+          cd fastText
+          make
