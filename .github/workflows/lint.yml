@@ -38,3 +38,4 @@ jobs:
           make
           cd ../trainingdata
           ../fastText20220622/fasttext supervised -input cooking.train -output model_cooking
+          ls -l cook*
