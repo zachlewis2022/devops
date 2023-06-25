@@ -36,3 +36,5 @@ jobs:
           which gcc
           cd fastText20220622
           make
+          cd ../trainingdata
+          ../fastText20220622/fasttext supervised -input cooking.train -output model_cooking
