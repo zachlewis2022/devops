@@ -34,5 +34,5 @@ jobs:
         run: |
           which python
           which gcc
-          cd fastText
+          cd fastText20220622
           make
