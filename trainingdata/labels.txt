@@ -1,5 +1,5 @@
-question_describe
-question_when
-question_explain
-statement
+question
+questionTypeDateTime
+questionTypeExplain
+statementRemember
 set_value_for_describe
