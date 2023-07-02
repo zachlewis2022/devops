@@ -1,8 +1,8 @@
-__label__question __label__questionTypeDateTime when
-__label__question __label__questionTypeExplain what
-__label__question how
-__label__question where
-__label__question why
-__label__statementRemember you are
-__label__statementRemember it is
-__label__statementRemember it should be
+__label__question __label__questionTypeDateTime when is the meeting
+__label__question __label__questionTypeExplain what is your name
+__label__question how is it going
+__label__question where are we
+__label__question why is it here
+__label__statementRemember you are green
+__label__statementRemember it is red
+__label__statementRemember it should be blue
