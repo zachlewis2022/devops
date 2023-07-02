@@ -1,8 +1,10 @@
-__label__question __label__questionTypeDateTime when is the meeting
 __label__question __label__questionTypeExplain what is your name
-__label__question how is it going
 __label__question where are we
 __label__question why is it here
 __label__statementRemember you are green
 __label__statementRemember it is red
 __label__statementRemember it should be blue
+__label__questionWhen __label__questionTypeDateTime when
+__label__questionHow how is it going
+__label__questionwhy why 
+__label__questionName Your name is AI Demo
