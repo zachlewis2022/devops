@@ -8,4 +8,4 @@ fasttext supervised -input questions.train -output model_questions > qtraining.l
 #Predict
 
 
-fasttext predict model_cooking.bin cooking.valid
+fasttext predict model_questions.bin questions.valid
