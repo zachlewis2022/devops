@@ -1,0 +1,14 @@
+    3  sudo apt install make
+   11  mkdir demoai
+   12  cd demoai
+   13  git clone git clone https://github.com/facebookresearch/fastText.git
+   14  git clone https://github.com/facebookresearch/fastText.git
+   16  cd fastText
+   30  sudo apt-get update
+   31  sudo apt install gcc
+   32  sudo apt install g++
+   33  make
+   36  git clone https://github.com/zachlewis2022/devops
+   38  cd devops
+   52  ../fastText/fasttext supervised -input cooking.train -output model_cooking > training.log
+   53  ../fastText/fasttext predict model_cooking.bin cooking.valid
