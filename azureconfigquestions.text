@@ -1,0 +1,30 @@
+__label__azure How do I create a virtual machine (VM) in Azure?
+__label__azure What are availability sets in Azure and how do I configure them?
+__label__azure How do I configure network security groups (NSGs) in Azure?
+__label__azure How can I set up Azure virtual network (VNet) peering?
+__label__azure How do I configure load balancing for virtual machines in Azure?
+__label__azure What is Azure Active Directory (Azure AD) and how do I set it up?
+__label__azure How can I configure Azure AD Connect to synchronize on-premises Active Directory with Azure AD?
+__label__azure How do I configure Azure App Service for hosting web applications?
+__label__azure What are Azure storage accounts and how do I configure them?
+__label__azure How can I set up automatic backups for virtual machines in Azure?
+__label__azure How do I configure Azure SQL Database and manage its performance?
+__label__azure How can I configure Azure Traffic Manager for global load balancing?
+__label__azure How do I configure Azure Functions for serverless computing?
+__label__azure What are Azure Logic Apps and how do I configure them for workflow automation?
+__label__azure How can I configure Azure Active Directory B2B collaboration?
+__label__azure How do I configure Azure Key Vault for secure storage and management of secrets?
+__label__azure How can I configure Azure Application Gateway for application delivery and security?
+__label__azure How do I set up Azure Site Recovery for disaster recovery?
+__label__azure What are Azure Virtual Machine Scale Sets and how do I configure them?
+__label__azure How can I configure Azure Security Center for threat protection and monitoring?
+__label__azure How do I configure Azure Virtual WAN for networking across multiple regions?
+__label__azure How can I set up Azure Policy for governance and compliance?
+__label__azure How do I configure Azure Front Door for global HTTP load balancing?
+__label__azure What are Azure Data Factory pipelines and how do I configure them?
+__label__azure How can I configure Azure Cosmos DB for globally distributed databases?
+__label__azure How do I set up Azure Databricks for big data analytics and AI?
+__label__azure How can I configure Azure Event Grid for event-driven architectures?
+__label__azure How do I configure Azure Kubernetes Service (AKS) for container orchestration?
+__label__azure What are Azure Functions Proxies and how do I configure them?
+__label__azure How can I configure Azure DevOps for continuous integration and deployment (CI/CD)?
