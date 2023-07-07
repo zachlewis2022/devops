@@ -23,6 +23,40 @@ __label_configure __label__azure How can I set up Azure Policy for governance an
 __label_configure __label__azure How do I configure Azure Front Door for global HTTP load balancing?
 __label_configure __label__azure What are Azure Data Factory pipelines and how do I configure them?
 __label_configure __label__azure How can I configure Azure Cosmos DB for globally distributed databases?
+Certainly! Here's a list of 30 common AWS configuration questions with the prefix "__label__config __label__aws" added to each question:
+
+__label__config __label__aws How do I create an EC2 instance in AWS?
+__label__config __label__aws What is an Amazon S3 bucket and how do I configure it in AWS?
+__label__config __label__aws How can I set up load balancing for EC2 instances in AWS?
+__label__config __label__aws What is an Amazon RDS database and how do I configure it in AWS?
+__label__config __label__aws How do I configure security groups in AWS?
+__label__config __label__aws What is AWS Identity and Access Management (IAM) and how do I set it up?
+__label__config __label__aws How can I set up Amazon VPC peering in AWS?
+__label__config __label__aws How do I configure auto scaling for EC2 instances in AWS?
+__label__config __label__aws What is Amazon CloudFront and how do I configure it in AWS?
+__label__config __label__aws How can I set up Amazon Route 53 for DNS management in AWS?
+__label__config __label__aws How do I configure AWS Lambda for serverless computing?
+__label__config __label__aws What is AWS CloudFormation and how do I use it for infrastructure as code?
+__label__config __label__aws How can I set up Amazon SNS for event-driven messaging in AWS?
+__label__config __label__aws How do I configure Amazon CloudWatch for monitoring and logging in AWS?
+__label__config __label__aws What is Amazon Elastic Beanstalk and how do I use it for application deployment in AWS?
+__label__config __label__aws How can I set up Amazon Aurora for high-performance database storage in AWS?
+__label__config __label__aws How do I configure Amazon API Gateway for building and managing APIs in AWS?
+__label__config __label__aws What is AWS Direct Connect and how do I configure it for dedicated network connectivity?
+__label__config __label__aws How can I set up Amazon EFS for scalable file storage in AWS?
+__label__config __label__aws How do I configure Amazon Redshift for data warehousing in AWS?
+__label__config __label__aws What is AWS CloudTrail and how do I configure it for auditing and compliance?
+__label__config __label__aws How can I set up Amazon ECS for container orchestration in AWS?
+__label__config __label__aws How do I configure Amazon ElastiCache for in-memory caching in AWS?
+__label__config __label__aws What is Amazon DynamoDB and how do I configure it for NoSQL database storage in AWS?
+__label__config __label__aws How can I set up AWS Lambda functions triggered by Amazon S3 events?
+__label__config __label__aws How do I configure AWS Elastic Load Balancer for distributing traffic in AWS?
+__label__config __label__aws What is AWS CloudWatch Events and how do I configure it for event-driven automation?
+__label__config __label__aws How can I set up AWS CloudFront for content delivery and acceleration?
+__label__config __label__aws How do I configure AWS VPC networking and subnets in AWS?
+__label__config __label__aws What is AWS Elastic Beanstalk and how do I configure it for deploying web applications in AWS?
+
+Please note that these questions are related to AWS configuration and have the "__label__config" and "__label__aws" prefixes added to them.
 __label_configure __label__azure How do I set up Azure Databricks for big data analytics and AI?
 __label_configure __label__azure How can I configure Azure Event Grid for event-driven architectures?
 __label_configure __label__azure How do I configure Azure Kubernetes Service (AKS) for container orchestration?
