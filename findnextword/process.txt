@@ -1,0 +1,39 @@
+Certainly! Here's a simple example of using FastText for text classification in Python to guess the next word in a sentence:
+
+```python
+import fasttext
+
+# Training data file path
+train_data_path = 'train.txt'
+
+# Model output file path
+model_output_path = 'model.bin'
+
+# Train the FastText model
+model = fasttext.train_unsupervised(train_data_path)
+
+# Save the trained model
+model.save_model(model_output_path)
+
+# Load the trained model
+model = fasttext.load_model(model_output_path)
+
+# Sentence to predict the next word
+sentence = "I love to"
+
+# Predict the next word
+next_word = model.predict(sentence, k=1)[0][0]
+
+# Print the predicted next word
+print("Predicted Next Word:", next_word)
+```
+
+In this example, you need to have a training file named `train.txt` that contains sentences with words separated by whitespace. Each sentence should be on a separate line.
+
+You can train the FastText model using the `train_unsupervised` function and save it to a binary file using `save_model`. Then, you can load the trained model using `load_model` for making predictions.
+
+To predict the next word in a given sentence, use the `predict` function. It takes the sentence as input along with the parameter `k` (in this case, 1) to specify the number of predictions to return. The function returns a list of predicted words, and you can extract the first word from it.
+
+In this example, the sentence "I love to" is used as an example, but you can modify it to any sentence you want to predict the next word for.
+
+Remember to install the `fasttext` library before running this code, which you can do using `pip install fasttext`. Additionally, ensure that you have the training data file (`train.txt`) in the same directory as the Python script or provide the correct path to the file in the `train_data_path` variable.

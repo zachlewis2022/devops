@@ -1,0 +1,11 @@
+sudo apt-get update
+sudo apt install gcc
+sudo apt install g++
+sudo apt install git
+sudo apt install python
+sudo apt install python3
+sudo apt install c++
+sudo apt install clang
+sudo apt install unzip
+sudo apt-get install hdf5-tools
+sudo apt install fasttext
