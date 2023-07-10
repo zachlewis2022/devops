@@ -1,0 +1,6 @@
+__label__food 0.250069 __label__home 0.250023 __label__cats 0.249974 __label__dogs 0.249974
+__label__food 0.250147 __label__dogs 0.249998 __label__cats 0.24995 __label__home 0.249946
+__label__food 0.250131 __label__home 0.24998 __label__dogs 0.249968 __label__cats 0.249961
+__label__food 0.250044 __label__dogs 0.250011 __label__cats 0.249997 __label__home 0.249988
+__label__food 0.250071 __label__dogs 0.250006 __label__cats 0.24999 __label__home 0.249973
+__label__food 0.250079 __label__dogs 0.250024 __label__cats 0.249976 __label__home 0.24996
