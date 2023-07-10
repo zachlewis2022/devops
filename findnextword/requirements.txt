@@ -1,0 +1,5 @@
+numpy
+scipy
+pybind11
+wheels
+fasttext
